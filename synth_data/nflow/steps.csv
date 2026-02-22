@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,1,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_192_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,2,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_384_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,3,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_576_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,4,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_768_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,5,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_960_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,6,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_1152_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,7,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_1344_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,8,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_1536_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,9,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_1728_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,10,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_1920_synth.parquet
+15e40cda-8245-44ad-b3d2-e57f18d8b3aa,nflow,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\nflow\step_2112_synth.parquet

@@ -1,0 +1,53 @@
+--- eval_sanity ---
+close_values_probability
+common_rows_proportion
+data_mismatch 
+distant_values_probability 
+nearest_syn_neighbor_distance
+
+
+--- eval_privacy ---
+delta-presence
+distinct_l-diversity
+identifiability_score
+k-anonymization
+k-map
+
+DomiasMIA
+DomiasMIA_BNAF
+DomiasMIA_KDE
+DomiasMIA_prior
+
+
+
+--- eval_statistical ---
+chi_squared_test
+inv_kl_divergence
+jensenshannon_dist
+ks_test
+max_mean_discrepancy
+wasserstein_dist
+alpha_precision__alpha-precision
+alpha_precision__beta-recall
+alpha_precision__authenticity
+prdc__precision
+prdc__recall
+prdc__density
+prdc__coverage
+
+
+--- eval_performance ---
+detection_gmm
+detection_linear
+detection_mlp
+detection_xgb
+
+
+--- eval_detection ---
+feat_rank_distance
+linear_model
+linear_model_augmentation
+mlp
+mlp_augmentation
+xgb
+xgb_augmentation

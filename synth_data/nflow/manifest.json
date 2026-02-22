@@ -1,0 +1,12 @@
+{
+  "run_id": "15e40cda-8245-44ad-b3d2-e57f18d8b3aa",
+  "timestamp_utc": "20260202T152834Z",
+  "algorithm": "nflow",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "step": "all",
+  "python": "3.11.0",
+  "synthcity_version": null
+}

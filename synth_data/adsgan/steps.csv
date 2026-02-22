@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,1,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_192_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,2,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_384_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,3,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_576_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,4,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_768_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,5,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_960_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,6,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_1152_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,7,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_1344_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,8,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_1536_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,9,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_1728_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,10,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_1920_synth.parquet
+2452b95f-1e0c-42c0-9731-18934add8910,adsgan,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\adsgan\step_2112_synth.parquet

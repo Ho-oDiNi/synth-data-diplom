@@ -1,0 +1,11 @@
+{
+  "run_id": "e61d6f85-58b0-4ea1-9635-abc734c8b614",
+  "timestamp_utc": "20260131T100702Z",
+  "algorithm": "bayesian_network",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "python": "3.11.0",
+  "synthcity_version": null
+}

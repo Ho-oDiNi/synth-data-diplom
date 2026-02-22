@@ -1,0 +1,12 @@
+{
+  "run_id": "2dce530b-2667-4109-925c-67304027149e",
+  "timestamp_utc": "20260216T091035Z",
+  "algorithm": "great",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "step": "5",
+  "python": "3.11.0",
+  "synthcity_version": null
+}

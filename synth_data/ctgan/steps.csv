@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,1,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_192_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,2,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_384_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,3,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_576_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,4,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_768_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,5,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_960_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,6,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_1152_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,7,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_1344_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,8,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_1536_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,9,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_1728_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,10,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_1920_synth.parquet
+6a4469fb-9e89-4ecf-86ab-1126c6c59a7a,ctgan,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\ctgan\step_2112_synth.parquet

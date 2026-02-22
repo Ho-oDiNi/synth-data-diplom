@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,1,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_192_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,2,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_384_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,3,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_576_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,4,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_768_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,5,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_960_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,6,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_1152_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,7,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_1344_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,8,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_1536_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,9,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_1728_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,10,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_1920_synth.parquet
+d96ed1a9-be04-4724-b8a8-bdaca63e1f35,tvae,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\tvae\step_2112_synth.parquet

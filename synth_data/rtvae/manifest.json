@@ -1,0 +1,12 @@
+{
+  "run_id": "b04197d6-d9c8-4e2f-b666-3537d3da1151",
+  "timestamp_utc": "20260202T122117Z",
+  "algorithm": "rtvae",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "step": "all",
+  "python": "3.11.0",
+  "synthcity_version": null
+}

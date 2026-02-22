@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,1,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_1152_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,2,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_1344_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,3,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_1536_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,4,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_1728_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,5,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_1920_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,6,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_192_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,7,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_2112_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,8,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_384_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,9,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_576_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,10,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_768_synth.parquet
+48f6cad1-0dfe-4ee4-9ca6-50400330b75e,dpgan,11,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\dpgan\step_960_synth.parquet

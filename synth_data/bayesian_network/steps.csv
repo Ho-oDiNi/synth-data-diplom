@@ -1,0 +1,12 @@
+run_id,algorithm,step,rows,real_file,synth_file
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,1,191,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0192_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_192_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,2,383,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0384_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_384_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,3,575,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0576_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_576_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,4,767,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0768_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_768_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,5,959,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_0960_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_960_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,6,1151,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1152_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_1152_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,7,1343,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1344_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_1344_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,8,1535,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1536_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_1536_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,9,1727,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1728_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_1728_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,10,1919,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_1920_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_1920_synth.parquet
+e61d6f85-58b0-4ea1-9635-abc734c8b614,bayesian_network,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\bayesian_network\step_2112_synth.parquet

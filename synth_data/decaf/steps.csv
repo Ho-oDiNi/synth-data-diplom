@@ -1,0 +1,2 @@
+run_id,algorithm,step,rows,real_file,synth_file
+eded8ce3-2102-4894-b69d-81d039ab6318,decaf,11,2111,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\real_data\step_2112_real.parquet,C:\labs\MAGISTER\Diplom\DIPLOM_PYTHON\synth_data\decaf\step_2112_synth.parquet

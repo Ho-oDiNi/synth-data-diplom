@@ -1,0 +1,12 @@
+{
+  "run_id": "ad687128-7864-4094-8d33-82489cd56c3a",
+  "timestamp_utc": "20260202T152531Z",
+  "algorithm": "arfpy",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "step": "all",
+  "python": "3.11.0",
+  "synthcity_version": null
+}

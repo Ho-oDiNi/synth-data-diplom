@@ -1,0 +1,12 @@
+{
+  "run_id": "eded8ce3-2102-4894-b69d-81d039ab6318",
+  "timestamp_utc": "20260204T144800Z",
+  "algorithm": "decaf",
+  "real_dir": "C:\\labs\\MAGISTER\\Diplom\\DIPLOM_PYTHON\\real_data",
+  "real_glob": "step_*_real.parquet",
+  "format": "parquet",
+  "target": null,
+  "step": "11",
+  "python": "3.11.0",
+  "synthcity_version": null
+}
