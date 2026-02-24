@@ -1,0 +1,161 @@
+{
+  "constraints": [
+    {
+      "name": "age_range",
+      "type": "range",
+      "col": "Age",
+      "min": 10,
+      "max": 80,
+      "inclusive": true,
+      "allow_na": false
+    },
+    {
+      "name": "height_range_m",
+      "type": "range",
+      "col": "Height",
+      "min": 1.2,
+      "max": 2.3,
+      "inclusive": true,
+      "allow_na": false
+    },
+    {
+      "name": "weight_range_kg",
+      "type": "range",
+      "col": "Weight",
+      "min": 30,
+      "max": 250,
+      "inclusive": true,
+      "allow_na": false
+    },
+
+    {
+      "name": "gender_domain",
+      "type": "in",
+      "col": "Gender",
+      "values": ["Male", "Female"],
+      "allow_na": false
+    },
+
+    {
+      "name": "family_history_domain",
+      "type": "in",
+      "col": "family_history_with_overweight",
+      "values": ["yes", "no"],
+      "allow_na": false
+    },
+    {
+      "name": "favc_domain",
+      "type": "in",
+      "col": "FAVC",
+      "values": ["yes", "no"],
+      "allow_na": false
+    },
+    {
+      "name": "smoke_domain",
+      "type": "in",
+      "col": "SMOKE",
+      "values": ["yes", "no"],
+      "allow_na": false
+    },
+    {
+      "name": "scc_domain",
+      "type": "in",
+      "col": "SCC",
+      "values": ["yes", "no"],
+      "allow_na": false
+    },
+
+    {
+      "name": "fcvc_range",
+      "type": "range",
+      "col": "FCVC",
+      "min": 1.0,
+      "max": 3.0,
+      "inclusive": true,
+      "allow_na": false
+    },
+    {
+      "name": "ncp_range",
+      "type": "range",
+      "col": "NCP",
+      "min": 1.0,
+      "max": 4.0,
+      "inclusive": true,
+      "allow_na": false
+    },
+
+    {
+      "name": "caec_domain",
+      "type": "in",
+      "col": "CAEC",
+      "values": ["no", "Sometimes", "Frequently", "Always"],
+      "allow_na": false
+    },
+    {
+      "name": "ch2o_range",
+      "type": "range",
+      "col": "CH2O",
+      "min": 1.0,
+      "max": 3.0,
+      "inclusive": true,
+      "allow_na": false
+    },
+
+    {
+      "name": "faf_range",
+      "type": "range",
+      "col": "FAF",
+      "min": 0.0,
+      "max": 3.0,
+      "inclusive": true,
+      "allow_na": false
+    },
+    {
+      "name": "tue_range",
+      "type": "range",
+      "col": "TUE",
+      "min": 0.0,
+      "max": 2.0,
+      "inclusive": true,
+      "allow_na": false
+    },
+
+    {
+      "name": "calc_domain",
+      "type": "in",
+      "col": "CALC",
+      "values": ["no", "Sometimes", "Frequently", "Always"],
+      "allow_na": false
+    },
+
+    {
+      "name": "mtrans_domain",
+      "type": "in",
+      "col": "MTRANS",
+      "values": [
+        "Automobile",
+        "Motorbike",
+        "Bike",
+        "Public_Transportation",
+        "Walking"
+      ],
+      "allow_na": false
+    },
+
+    {
+      "name": "target_domain",
+      "type": "in",
+      "col": "NObeyesdad",
+      "values": [
+        "Insufficient_Weight",
+        "Normal_Weight",
+        "Overweight_Level_I",
+        "Overweight_Level_II",
+        "Obesity_Type_I",
+        "Obesity_Type_II",
+        "Obesity_Type_III"
+      ],
+      "allow_na": false
+    }
+  ]
+}

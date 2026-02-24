@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# scripts/calc_consistency_sdmetrics_v2.py
+# scripts/calc_pairs_sdmetrics.py
 from __future__ import annotations
 
 import argparse
@@ -432,7 +432,7 @@ def main() -> int:
         raise SystemExit(f"Unsupported metric '{args.metric}'. Allowed: {sorted(ALLOWED)}")
 
     root = default_project_root()
-    out_dir = root / "metric_data" / "consistency_metric"
+    out_dir = root / "metric_data" / "pairs_metric"
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{metric_in}.csv"
 
