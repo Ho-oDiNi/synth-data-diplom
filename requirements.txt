@@ -10,5 +10,7 @@ wheel>=0.40
 
 opacus<1.5.4
 
+sdmetrics>=0.8.0
+
 # synthcity: ставить отдельной командой в конце
 # synthcity

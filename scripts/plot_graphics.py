@@ -19,7 +19,7 @@ import pandas as pd
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser()
-    p.add_argument("--points-dir", default="metric_data/quality", help="Папка с CSV точками")
+    p.add_argument("--points-dir", default="quality", help="Папка с CSV точками")
     p.add_argument("--out-dir", default="graphics", help="Папка для PNG графиков")
     p.add_argument("--metric", default=None, help="Какой metric.csv рисовать (без .csv)")
     p.add_argument("--absolute", default=False, action="store_true", help="Рисовать абсолютные значения (не проценты)")
@@ -84,8 +84,8 @@ def plot_one(csv_path: Path, out_dir: Path, dpi: int, absolute: bool = False) ->
 def main() -> int:
     args = parse_args()
 
-    points_dir = Path(args.points_dir)
-    out_dir = Path(args.out_dir)
+    points_dir = Path("metric_data", args.points_dir)
+    out_dir = Path(args.out_dir, args.points_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if args.all:
